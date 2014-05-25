@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-Coursera Data Science Paractices.
+Coursera Data Science Practices.
